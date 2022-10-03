@@ -3,15 +3,14 @@
 
 Hi dev 👋
 
-I’m Elim, a junior full-stack engineer, creative coder. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Elim, a junior fullstack developer, I like to undertake and design projects. I make it my mission to master as many languages ​​as possible in order to be able to express it through websites or applications.
 
-Want to know more about me? [Check out my portfolio.](https://elimf.github.io/)
+You want to know more about me here is something to make your mouth water? 🤤 [Check out my portfolio.](https://elimf.github.io/)
 
 
 ## 📌 Pinned Repositories
 
 <br>
-
 
 <a href="https://github.com/elimf/Calculatrice">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Calculatrice&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
