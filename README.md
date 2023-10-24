@@ -1,25 +1,43 @@
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        a {
+            text-decoration: none;
+            color: #0077e0;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/braydon-coyer/](https://www.linkedin.com/in/elimflorvil/))
 
 
-Hi dev 👋
-
-I'm Elim, a passionate junior fullstack developer with a burning desire to bring digital ideas to life. My journey in the world of programming began with a simple curiosity, and it has now evolved into a full-blown passion. As a dedicated problem solver and creative thinker, I thrive on challenges and the opportunity to design and develop innovative projects.
-
-My goal as a fullstack developer is to bridge the gap between ideas and their real-world implementation. I believe that the web and mobile applications are the canvas through which we can create art with code, and I'm committed to mastering as many programming languages and technologies as possible. This way, I can leverage a versatile skill set to turn any concept into a functional and visually appealing website or application.
-
-From crafting dynamic and user-friendly front-end interfaces using technologies like React and JavaScript to ensuring a seamless user experience with well-structured CSS and the power of frameworks like Tailwind CSS, I'm constantly exploring new ways to engage users and provide an enjoyable online experience.
-
-When it comes to the back end, I'm well-versed in building robust and scalable applications. I utilize the power of Node.js and Express to handle server-side logic and data management efficiently. Additionally, I'm skilled in creating APIs and using database systems to store and retrieve information, providing the backbone for your applications.
-
-I'm also versed in mobile app development, with experience in Swift for iOS and Java for Android. This means I can help you extend your digital footprint to both major mobile platforms, ensuring your audience can engage with your ideas on the go.
-
-Moreover, I'm not limited to the client and server side alone. I have experience with tools like GitHub and Bitbucket for version control, as well as Postman for API testing. When it comes to project management, I rely on Jira to keep tasks organized and on track.
-
-In addition to my broad skill set, my hunger for learning and innovation is insatiable. I'm constantly exploring new technologies and trends in the ever-evolving world of web and mobile development, ensuring that I stay at the cutting edge of the industry.
-
-So, if you're looking for a dynamic and dedicated developer who not only writes code but crafts digital experiences, you've come to the right place. Let's bring your vision to life, whether it's a stunning website, a powerful web application, or a sleek mobile app. Get in touch, and together, we'll create something that will leave a lasting impression.
-
-Want to know more about me? Stay tuned for exciting projects and continuous growth, because my journey as a developer is just getting started. 🤤 [Check out my portfolio.](https://elimf.github.io/)
+<div class="container">
+        <h1>Hi dev 👋</h1>
+        <p>I'm Elim, a passionate junior fullstack developer with a burning desire to bring digital ideas to life. As a dedicated problem solver and creative thinker, I thrive on challenges and the opportunity to design and develop innovative projects.</p>
+        <p>My goal as a fullstack developer is to bridge the gap between ideas and their real-world implementation. This way, I can leverage a versatile skill set to turn any concept into a functional and visually appealing website or application.</p>
+        <p>From crafting dynamic and user-friendly front-end interfaces using technologies like React and JavaScript to ensuring a seamless user experience with well-structured CSS and the power of frameworks like Tailwind CSS, I'm constantly exploring new ways to engage users and provide an enjoyable online experience.</p>
+        <p>As for the back-end, I am well versed in building robust and scalable applications. I use the power of Node.js and Express to efficiently manage server-side logic and data management. In addition, I am skilled at creating APIs and using database systems to store and retrieve information, providing the backbone of your applications.</p>
+        <p>I'm also versed in mobile app development, with experience in Swift, Java, and Flutter. This means I can help you extend your digital footprint to both major mobile platforms, ensuring your audience can engage with your ideas on the go.</p>
+        <p>So, if you're looking for a dynamic and dedicated developer who not only writes code but also crafts digital experiences, you've come to the right place. Let's bring your vision to life, whether it's a stunning website, a powerful web application, or a sleek mobile app.</p>
+        <p>Want to know more about me? Stay tuned for exciting projects and continuous growth, because my journey as a developer is just getting started. 🤤 <a href="https://elimf.github.io/">Check out my portfolio.</a></p>
+    </div>
 
 
 ## 📌 Pinned Repositories
