@@ -1,30 +1,3 @@
-    <style>
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        h1 {
-            font-size: 24px;
-        }
-        p {
-            font-size: 16px;
-            line-height: 1.5;
-        }
-        a {
-            text-decoration: none;
-            color: #0077e0;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/braydon-coyer/](https://www.linkedin.com/in/elimflorvil/))
 
 
