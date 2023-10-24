@@ -26,33 +26,27 @@ Want to know more about me? Stay tuned for exciting projects and continuous grow
 
 <br>
 
-<a href="https://github.com/elimf/Calculatrice">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Calculatrice&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/elimf/Calculatrice">
+    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Calculatrice&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
 
-<br>
+  <a href="https://github.com/elimf/SneakersAddict">
+    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=SneakersAddict&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
 
-<a href="https://github.com/elimf/SneakersAddict">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=SneakersAddict&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+  <a href="https://github.com/elimf/CodingShop">
+    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=CodingShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
 
-<br>
+  <a href="https://github.com/elimf/Instagram">
+    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Instagram&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
 
-<a href="https://github.com/elimf/CodingShop">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=CodingShop&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/elimf/Instagram">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Instagram&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/elimf/elimf.github.io">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=elimf.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+  <a href="https://github.com/elimf/elimf.github.io">
+    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=elimf.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</div>
 
 <br>
 <br>
