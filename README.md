@@ -34,7 +34,7 @@
     <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Instagram&theme=dracula" />
   </a>
 
-  <a href="https://github.com/elimf/elimf.github.io">
+  <a href="https://github.com/elimf/projectCodeur">
     <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=elimf.github.io&theme=dracula" />
   </a>
   <a href="https://github.com/elimf/Etch-a-sketch">
