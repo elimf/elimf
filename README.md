@@ -9,7 +9,7 @@
         <p>As for the back-end, I am well versed in building robust and scalable applications. I use the power of Node.js and Express to efficiently manage server-side logic and data management. In addition, I am skilled at creating APIs and using database systems to store and retrieve information, providing the backbone of your applications.</p>
         <p>I'm also versed in mobile app development, with experience in Swift, Java, and Flutter. This means I can help you extend your digital footprint to both major mobile platforms, ensuring your audience can engage with your ideas on the go.</p>
         <p>So, if you're looking for a dynamic and dedicated developer who not only writes code but also crafts digital experiences, you've come to the right place. Let's bring your vision to life, whether it's a stunning website, a powerful web application, or a sleek mobile app.</p>
-        <p>Want to know more about me? Stay tuned for exciting projects and continuous growth, because my journey as a developer is just getting started. 🤤 <a href="https://elimf.github.io/">Check out my portfolio.</a></p>
+        <p>Want to know more about me? Stay tuned for exciting projects and continuous growth, because my journey as a developer is just getting started. 🤤 <a href="https://elimf-portfolio.vercel.app/">Check out my portfolio.</a></p>
     </div>
 
 
