@@ -28,6 +28,9 @@
   <a href="https://github.com/elimf/Etch-a-sketch">
     <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Etch-a-sketch&theme=dracula" />
   </a>
+  <a href="https://github.com/elimf/Rock-Paper-Scissor">
+    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Rock-Paper-Scissor&theme=dracula" />
+  </a>
 </div>
 
 <br>
