@@ -2,16 +2,15 @@
 
 
 <div class="container">
-        <h1>Hi dev 👋</h1>
-        <p>I'm Elim, a passionate junior fullstack developer with a burning desire to bring digital ideas to life. As a dedicated problem solver and creative thinker, I thrive on challenges and the opportunity to design and develop innovative projects.</p>
-        <p>My goal as a fullstack developer is to bridge the gap between ideas and their real-world implementation. This way, I can leverage a versatile skill set to turn any concept into a functional and visually appealing website or application.</p>
-        <p>From crafting dynamic and user-friendly front-end interfaces using technologies like React and JavaScript to ensuring a seamless user experience with well-structured CSS and the power of frameworks like Tailwind CSS, I'm constantly exploring new ways to engage users and provide an enjoyable online experience.</p>
-        <p>As for the back-end, I am well versed in building robust and scalable applications. I use the power of Node.js and Express to efficiently manage server-side logic and data management. In addition, I am skilled at creating APIs and using database systems to store and retrieve information, providing the backbone of your applications.</p>
-        <p>I'm also versed in mobile app development, with experience in Swift, Java, and Flutter. This means I can help you extend your digital footprint to both major mobile platforms, ensuring your audience can engage with your ideas on the go.</p>
-        <p>So, if you're looking for a dynamic and dedicated developer who not only writes code but also crafts digital experiences, you've come to the right place. Let's bring your vision to life, whether it's a stunning website, a powerful web application, or a sleek mobile app.</p>
-        <p>Want to know more about me? Stay tuned for exciting projects and continuous growth, because my journey as a developer is just getting started. 🤤 <a href="https://elimf-portfolio.vercel.app/">Check out my portfolio.</a></p>
-    </div>
-
+  <h1>Hi dev 👋</h1>
+  <p>I'm Elim, a passionate junior fullstack developer eager to bring digital ideas to life through creative problem solving and innovative projects.</p>
+  <p>My goal is to bridge ideas and real-world implementation, turning concepts into functional, appealing websites or apps.</p>
+  <p>I craft dynamic front-ends with React, JavaScript, and Tailwind CSS for engaging user experiences.</p>
+  <p>On the back-end, I build scalable apps using Node.js, Express, APIs, and databases for solid data management.</p>
+  <p>I also develop mobile apps using Swift, Java, and Flutter, helping you reach audiences on major platforms.</p>
+  <p>If you want a dedicated developer who crafts digital experiences, let’s bring your vision to life — web or mobile.</p>
+  <p>Curious? Check out my <a href="https://elimf-portfolio.vercel.app/">portfolio</a> and stay tuned for more projects!</p>
+</div>
 
 ## 📌 Pinned Repositories
 
