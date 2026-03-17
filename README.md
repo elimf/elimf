@@ -2,40 +2,39 @@
 
 
 <div class="container">
-  <h1>Hi dev 👋</h1>
-  <p>I'm Elim, a passionate junior fullstack developer eager to bring digital ideas to life through creative problem solving and innovative projects.</p>
-  <p>My goal is to bridge ideas and real-world implementation, turning concepts into functional, appealing websites or apps.</p>
-  <p>I craft dynamic front-ends with React, JavaScript, and Tailwind CSS for engaging user experiences.</p>
-  <p>On the back-end, I build scalable apps using Node.js, Express, APIs, and databases for solid data management.</p>
-  <p>I also develop mobile apps using Swift, Java, and Flutter, helping you reach audiences on major platforms.</p>
-  <p>If you want a dedicated developer who crafts digital experiences, let’s bring your vision to life — web or mobile.</p>
-  <p>Curious? Check out my <a href="https://elimf-portfolio.vercel.app/">portfolio</a> and stay tuned for more projects!</p>
+  <h1>Hi, I'm Elim!</h1>
+  
+  <p class="intro">
+    <strong>Junior Fullstack Developer</strong> passionate about transforming digital ideas into high-performance reality through creative problem-solving and innovative code.
+  </p>
+
+  <hr>
+
+  <h3>Web Development</h3>
+  <p>
+    I craft dynamic, responsive front-ends using <strong>React, JavaScript, and Tailwind CSS</strong> to deliver engaging user experiences. On the back-end, I build scalable architectures with <strong>Node.js and Express</strong>, ensuring robust API integration and solid data management.
+  </p>
+
+  <h3>Mobile Expertise</h3>
+  <p>
+    Beyond the browser, I develop native and cross-platform mobile applications using <strong>Swift, Java, and Flutter</strong>, helping you reach your audience on both iOS and Android.
+  </p>
+
+  <h3>Let's Collaborate</h3>
+  <p>
+    Whether you need a functional website or a powerful mobile app, I am dedicated to bridging the gap between concept and implementation. Let’s bring your vision to life.
+  </p>
+
+  <p class="footer">
+    Ready to explore? Check out my 
+    <a href="https://elimf-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> 
+    and stay tuned for my latest projects!
+  </p>
 </div>
 
-## 📌 Pinned Repositories
 
-<br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/elimf/Calculatrice">
-    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Calculatrice&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/elimf/projectCodeur">
-    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=elimf.github.io&theme=dracula" />
-  </a>
-  <a href="https://github.com/elimf/Etch-a-sketch">
-    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Etch-a-sketch&theme=dracula" />
-  </a>
-  <a href="https://github.com/elimf/Rock-Paper-Scissor">
-    <img align="center" style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=elimf&repo=Rock-Paper-Scissor&theme=dracula" />
-  </a>
-</div>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
+##  GitHub Stats
 
 <br>
 
